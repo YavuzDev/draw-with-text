@@ -4,4 +4,4 @@ A Flutter desktop application to draw using text
 
 # Example
 
-![](https://i.imgur.com/BoXt3U3.gifv)
+![](https://i.imgur.com/BoXt3U3.gif)
