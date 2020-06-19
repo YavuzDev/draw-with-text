@@ -16,7 +16,7 @@ class CanvasWidget extends StatelessWidget {
 class Painter extends CustomPainter {
   @override
   void paint(Canvas canvas, Size size) {
-    final List<Drawable> drawables = DrawableManager.getDrawables(WriteController.to.text);
+    final List<Drawable> drawables = DrawableManager.getDrawables(WriteController.to.textEditingController.text);
     drawables.forEach((element) {
       element.draw(canvas, size);
     });
