@@ -1,4 +1,4 @@
-# Kiraged Draw With text
+# Draw With text
 
 A Flutter desktop application to draw using text
 
